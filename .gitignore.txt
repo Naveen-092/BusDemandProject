@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# SQLite database
+*.sqlite3
+
+# Results and local data
+Results.csv
+
+# Django static/media output
+/static/
+media/
+
+# IDE configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
